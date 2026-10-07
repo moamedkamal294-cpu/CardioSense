@@ -1,0 +1,6 @@
+@CardioSense_HostAddress = http://localhost:5197
+
+GET {{CardioSense_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
